@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44fcf14-58ae-4dda-a527-debdb659e8de" name="Changes" comment="Changes made in print">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_JavaPrograms/newclass.java" afterDir="false" />
+    <list default="true" id="e44fcf14-58ae-4dda-a527-debdb659e8de" name="Changes" comment="new classs deleted">
+      <change afterPath="$PROJECT_DIR$/src/ex_01_JavaPrograms/Lab002_Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_JavaPrograms/Lab003_Keywords_Identifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_JavaPrograms/Lab004_CommonMath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,15 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/Desktop/git file/JavaPrograms&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab002_Comments.executor": "Run",
+    "Application.newclass.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Hp/Desktop/git file/JavaPrograms"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,11 +81,29 @@
       <option name="project" value="LOCAL" />
       <updated>1741241922962</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new classs">
+      <option name="closed" value="true" />
+      <created>1741245886037</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741245886037</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new classs deleted">
+      <option name="closed" value="true" />
+      <created>1741246011632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741246011632</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes made in print" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes made in print" />
+    <MESSAGE value="new classs" />
+    <MESSAGE value="new classs deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="new classs deleted" />
   </component>
 </project>
