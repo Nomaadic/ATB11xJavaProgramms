@@ -5,7 +5,7 @@ public class Lab007_Table9
     public static void main(String[] args)
     {
         int i=9;
-        System.out.println("Table to be printed"+i);
+        System.out.println("Table to be printed is "+i);
         System.out.printf("%d* 1 = %d%n",i,i);
         System.out.printf("%d* 2 = %d%n",i,i*2);
         System.out.printf("%d* 3 = %d%n",i,i*3);
