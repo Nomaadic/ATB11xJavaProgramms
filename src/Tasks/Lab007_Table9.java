@@ -1,4 +1,4 @@
-package ex_01_JavaPrograms;
+package Tasks;
 
 public class Lab007_Table9
 {
