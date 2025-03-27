@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e44fcf14-58ae-4dda-a527-debdb659e8de" name="Changes" comment="Practice programs">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Grade_Cal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Math_Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_JavaPrograms/Lab10_Increment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Operators/Lab010_Increment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Lab007_Table9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Table9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_JavaPrograms/Lab009_Terinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Operators/Lab009_Terinary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Operators/ArthematicOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Operators/ArthematicOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_JavaPrograms/Lab10_Increment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Operators/ArthematicOperators.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,34 +45,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Grade_Cal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab002_Comments.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab004_CommonMath.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab005_Exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab006_PrintvsPrintln.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab007_Table9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab009_Terinary.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab10_Increment.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_008_TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Math_Function.executor&quot;: &quot;Run&quot;,
-    &quot;Application.newclass.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/Desktop/git file/JavaPrograms&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab002_Comments.executor": "Run",
+    "Application.Lab004_CommonMath.executor": "Run",
+    "Application.Lab005_Exception.executor": "Run",
+    "Application.Lab006_PrintvsPrintln.executor": "Run",
+    "Application.Lab007_Table9.executor": "Run",
+    "Application.Lab010_Increment$Lab10_Increment.executor": "Run",
+    "Application.newclass.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Hp/Desktop/git file/JavaPrograms"
   }
-}</component>
-  <component name="RunManager" selected="Application.Lab10_Increment">
-    <configuration name="Grade_Cal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.Grade_Cal" />
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Lab010_Increment$Lab10_Increment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Operators.Lab010_Increment$Lab10_Increment" />
       <module name="ATB11xJavaProgramms" />
-      <option name="PROGRAM_PARAMETERS" value="67" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks.*" />
+          <option name="PATTERN" value="ex_02_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,43 +75,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab10_Increment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_JavaPrograms.Lab10_Increment" />
-      <module name="ATB11xJavaProgramms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_01_JavaPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Math_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.Math_Function" />
-      <module name="ATB11xJavaProgramms" />
-      <option name="PROGRAM_PARAMETERS" value="34" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Grade_Cal" />
-      <item itemvalue="Application.Lab10_Increment" />
-      <item itemvalue="Application.Math_Function" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab10_Increment" />
-        <item itemvalue="Application.Grade_Cal" />
-        <item itemvalue="Application.Math_Function" />
+        <item itemvalue="Application.Lab010_Increment$Lab10_Increment" />
       </list>
     </recent_temporary>
   </component>
@@ -188,23 +146,7 @@
       <option name="project" value="LOCAL" />
       <updated>1741844727707</updated>
     </task>
-    <task id="LOCAL-00008" summary="Practice programs">
-      <option name="closed" value="true" />
-      <created>1741844785927</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1741844785927</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Practice programs">
-      <option name="closed" value="true" />
-      <created>1742497970903</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1742497970903</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
