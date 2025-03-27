@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Lab007_Table9
+public class Table9
 {
     public static void main(String[] args)
     {

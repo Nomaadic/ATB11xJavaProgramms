@@ -1,4 +1,4 @@
-package ex_01_JavaPrograms;
+package ex_02_Operators;
 
 public class Lab009_Terinary
 {
